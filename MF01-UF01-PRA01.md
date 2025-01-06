@@ -1,124 +1,69 @@
 ## MF01-UF01-PRA01: Create markdown planning 10-weeks
 
-### CIFO La Violeta - DevOps IFCD0210-25 MF01
-
-This practical exercise will guide you through creating a markdown file to practice markdown syntax and plan 10 weeks as SCRUM sprints.
-
-### Objectives
-
-- Learn and practice basic markdown syntax
-- Create a 10-week planning table using markdown
-- Understand the concept of SCRUM sprints
-- Outline the roadmap you are following for your project
-
-### Tasks
-
-#### 1. Create a Markdown File
-
-Create a new file named `10_week_plan.md` in your project directory.
-
-#### 2. Markdown Basics
-
-Include the following markdown elements in your file:
-
-- Headers (use different levels)
-- Bold and italic text
-- Lists (ordered and unordered)
-- Links
-- Code blocks
-- Blockquotes
-
-Example:
-
-```markdown
 # My 10-Week Plan
 
 ## Introduction
 
 This is my **10-week plan** for the upcoming *SCRUM sprints*.
+As I am currently in an exploratory phase, I have focused it on learning Java. But I need to go over this document once classes begin to incorporate **React** and **Spring Boot**.
+
 
 ### Key Points:
 1. Plan effectively
 2. Stay focused
 3. Review regularly
+4. Be realistic 
+5. Be consistent
 
 > "Plans are nothing; planning is everything." - Dwight D. Eisenhower
+> "Everyone has a plan until they get punched in the mouth." - Michael Gerard "Mike" Tyson 
+> "A goal without a plan is just a wish." - Antoine de Saint-Exupéry
 
 Here's a sample code block:
 ```
 
-def hello_world():
-    print("Hello, World!")
+let name = "Linus";
+
+alert("Hello, " + name + "!");
 
 ```
 [Learn more about SCRUM](https://www.scrum.org/)
 ```
 
-#### 3. Create a 10-Week Planning Table
-
-Create a table in your markdown file with the following columns:
-
-- Sprint Number
-- Start Date
-- End Date
-- Main Goal
-- Description and contents
-
-Use the first 10 weeks of 2025 for your planning. Each sprint should last two weeks.
-
-Example table structure:
-
-```markdown
-| Sprint | Start Date | End Date | Main Goal |
-|--------|------------|----------|-----------|
-| 1      | 2025-01-06 | 2025-01-19 | Project Initiation |
-| 2      | 2025-01-20 | 2025-02-02 | Feature A Development |
-...
-```
-
-#### 4. SCRUM Sprint Planning
-
-For each sprint, define a main goal that aligns with SCRUM methodology. Consider including goals such as:
-
-- Sprint Planning
-- Feature Development
-- Testing and Quality Assurance, so Metrics
-- Sprint Review and Retrospective
-- Product Backlog Refinement
 
 
+### 10-Week Planning Table
 
-#### 5.Add your roadmap files
-
-In addition to the sprint planning, include a section in your markdown file that outlines the roadmap you are following for your project. This should include:
-
-- Key milestones
-- Major deliverables
-- Timeline for completion
-
-Example structure:
-
-
+| Sprint | Start Date     | End Date       | Main Objective                          | Description and Contents                                 |
+|--------|----------------|----------------|-----------------------------------------|---------------------------------------------------------|
+| 1      | 2025-01-06     | 2025-01-19     | Fundamentals of Java                    | Learn basic concepts such as syntax, control structures, and variables. |
+| 2      | 2025-01-20     | 2025-02-02     | Object-Oriented Programming             | Practice classes, objects, inheritance, encapsulation, and polymorphism. |
+| 3      | 2025-02-03     | 2025-02-16     | Data Structures                         | Implement structures like lists, stacks, and queues in Java. |
+| 4      | 2025-02-17     | 2025-03-01     | Algorithms                              | Study sorting and searching algorithms, applying them in Java. |
+| 5      | 2025-03-02     | 2025-03-15     | Introduction to Streams and Lambdas     | Learn to use Streams and lambda expressions to process collections. |
 
 ```
-Project Roadmap
+
+
 ### Milestones
-1. **Milestone 1**: Complete initial research by January 12, 2025.
-2. **Milestone 2**: Finish development of Feature A by February 16, 2025.
-3. **Milestone 3**: Conduct user testing by March 2, 2025.
-```
+1. **Milestone 1**: Complete Java fundamentals by January 19, 2025.
+2. **Milestone 2**: Understand and apply the principles of Object-Oriented Programming by February 2, 2025.
+3. **Milestone 3**: Implement key data structures and basic algorithms by March 1, 2025.
+4. **Milestone 4**: Use Streams and lambdas efficiently by March 15, 2025.
+
+---
 
 #### Links
 
-- [GitHub - devoxx/JavaRoadmap: The 2024 Java Developers Roadmap](https://github.com/devoxx/JavaRoadmap?tab=readme-ov-file)
+- [Mooc Java1](https://github.com/devoxx/JavaRoadmap?tab=readme-ov-file)
 
-- [GitHub - im-luka/markdown-cheatsheet: ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the next level. PDF included.](https://github.com/im-luka/markdown-cheatsheet?tab=readme-ov-file#paragraph)
+- [Manual java PDF](https://www.hannesfelixmueller.com/pdf/courses/5c811e65951c4-Java%20desde%20Cero.pdf)
 
-- [Introduction Markup – albertprofe wiki](https://albertprofe.dev/markup/markup-lang-intro.html)
+- [Java Documentation](https://docs.oracle.com/en/java/)
 
-- [Quarto Markdown: basics – albertprofe wiki](https://albertprofe.dev/markup/markup-quarto-basics.html)
+- [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
 
-- https://quarto.org/
+---
 
 ### Submission Guidelines
 
@@ -136,9 +81,3 @@ Project Roadmap
 
 - **Create** a `PRA01_ANSWER` folder to save the answer, docs and images.
 
-### Evaluation Criteria
-
-- Correct use of various markdown elements
-- Proper formatting of the 10-week planning table
-- Realistic and relevant sprint goals
-- Overall clarity and organization of the markdown document
