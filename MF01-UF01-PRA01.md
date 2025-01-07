@@ -16,8 +16,11 @@ As I am currently in an exploratory phase, I have focused it on learning Java. B
 5. Be consistent
 
 > "Plans are nothing; planning is everything." - Dwight D. Eisenhower
-> "Everyone has a plan until they get punched in the mouth." - Michael Gerard "Mike" Tyson 
+---
+> "Everyone has a plan until they get punched in the mouth." - Michael Gerard "Mike" Tyson
+---
 > "A goal without a plan is just a wish." - Antoine de Saint-Exupéry
+---
 
 Here's a sample code block:
 ```
@@ -31,9 +34,10 @@ alert("Hello, " + name + "!");
 ```
 
 
-
+```
 ### 10-Week Planning Table
-
+```
+```
 | Sprint | Start Date     | End Date       | Main Objective                          | Description and Contents                                 |
 |--------|----------------|----------------|-----------------------------------------|---------------------------------------------------------|
 | 1      | 2025-01-06     | 2025-01-19     | Fundamentals of Java                    | Learn basic concepts such as syntax, control structures, and variables. |
@@ -45,6 +49,7 @@ alert("Hello, " + name + "!");
 ```
 
 
+```
 ### Milestones
 1. **Milestone 1**: Complete Java fundamentals by January 19, 2025.
 2. **Milestone 2**: Understand and apply the principles of Object-Oriented Programming by February 2, 2025.
